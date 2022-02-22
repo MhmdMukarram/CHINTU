@@ -1,5 +1,5 @@
 build: 
   docker: 
-      worker: /alphaX/Dockerfile/Dockerfile
+      worker: /chintu/Dockerfile/Dockerfile
 run:
    worker: npm start
